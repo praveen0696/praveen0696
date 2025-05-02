@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Sharma</h1>
+<h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">A passionate Java and MERN full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen0696&label=Profile%20views&color=0e75b6&style=flat" alt="praveen0696" /> </p>
