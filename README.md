@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen0696&label=Profile%20views&color=0e75b6&style=flat" alt="praveen0696" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen0696" alt="praveen0696" /></a> </p>
-
 - ⚡ Fun fact **I can debug better with music playing! 🎧**
 
 <h3 align="left">Connect with me:</h3>
